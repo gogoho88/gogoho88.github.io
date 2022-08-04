@@ -160,7 +160,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: International Journals &amp; Top Conference
+    title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -185,6 +185,26 @@ publications:
         link: "#"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
         conference: IEEE Internet of Things Journal (IoTJ), 2021
+        
+      - title: Analysis of Micro-Doppler Signatures of Small UAVs Based on Doppler Spectrum
+        link: "#"
+        authors: Ki-Bong Kang, <strong>Jae-Ho Choi</strong>, Byung-Lae Cho, Jeong-Soo Kim, Kyung-Tae Kim
+        conference: IEEE Transactions on Aerospace and Electronic Systems (<br>TAES</br>), 2021
+        
+      - title: Robust Cardiac Rate Estimation of an Individual
+        link: "#"
+        authors: In-O Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim
+        conference: IEEE Sensors Journal (<br>IEEE Access</br>), 2021
+        
+      - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
+        link: "#"
+        authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
+        conference: IEEE Internet of Things Journal (IoTJ), 2021
+        
+      - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
+        link: "#"
+        authors: Ji-Eun Kim, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
+        conference: <br>IEEE Access</br>, 2021
 
 skills:
     title: Skills &amp; Proficiency
