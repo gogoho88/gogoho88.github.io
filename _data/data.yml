@@ -55,29 +55,30 @@ career-profile:
       I am a Ph.D Candidate at POSTECH (Pohang, Korea). I work on wireless sensing and machine learning. I'm 
       
 education:
-    - degree: Ph.D. in EE
-      university: Pohang University of Science and Technology (POSTECH)
+    - degree: Ph.D. in EE, POSTECH
+      university: GPA: 3.95/4.3
       time: 2019 - 2023
       details: |
-        (GPA: 3.95/4.3)
-    - degree: M.S. in EE
-      university: Pohang University of Science and Technology (POSTECH)
+        on "Research"
+    - degree: M.S. in EE, POSTECH
+      university: GPA: 3.73/4.3
       time: 2017 - 2019
       details: |
-        (GPA: 3.73/4.3)
-    - degree: B.S. in CS
-      university: Korea University
+        on "Research"
+    - degree: B.S. in CS, Korea University
+      university: GPA: 4.12/4.5
       time: 2011 - 2017
       details: |
-        (GPA: 4.12/4.5)
+        
           
 experiences:
-    - role: Intern, Flash Circuit Design Team
+    - role: Samsung Electronics, Hwasung, Korea
       time: Jun 2016 - Aug 2016
-      company: Samsung Electronics
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        
+      company: Intern, Flash Circuit Design Team 
+
+     - role: POSTECH, Pohang, Korea
+      time: Feb 2017 - Current
+      company: Research Assistant, Intelligent Radar Signal Processing Lab.
 
 projects:
     title: Projects
@@ -112,22 +113,22 @@ publications:
       - title: Remote Respiration Monitoring of Moving Person Using Radio Signals
         link: "#"
         authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim
-        conference: European Conference on Computer Vision (ECCV), 2022
+        conference: European Conference on Computer Vision (<b>ECCV</b>), 2022
 
       - title: Deep Learning Approach for Radar-Based People Counting
         link: "https://ieeexplore.ieee.org/document/9540889"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
-        conference: IEEE Internet of Things Journal (IoTJ), 2022
+        conference: IEEE Internet of Things Journal (<b>IoTJ</b>), 2022
 
       - title: Fusion of Target and Shadow Regions for Improved SAR ATR
         link: "#"
         authors: <strong>Jae-Ho Choi</strong>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim
-        conference: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022
+        conference: IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2022
 
       - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
         link: "#"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
-        conference: IEEE Internet of Things Journal (IoTJ), 2021
+        conference: IEEE Internet of Things Journal (<b>IoTJ</b>), 2021
         
       - title: Analysis of Micro-Doppler Signatures of Small UAVs Based on Doppler Spectrum
         link: "#"
@@ -137,17 +138,17 @@ publications:
       - title: Robust Cardiac Rate Estimation of an Individual
         link: "#"
         authors: In-O Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim
-        conference: IEEE Sensors Journal (<b>IEEE Access</b>), 2021
+        conference: IEEE Sensors Journal (<b>SensJ</b>), 2021
         
       - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
         link: "#"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
-        conference: IEEE Internet of Things Journal (IoTJ), 2021
+        conference: IEEE Internet of Things Journal (<b>IoTJ</b>), 2021
         
       - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
         link: "#"
         authors: Ji-Eun Kim, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
-        conference: <b>IEEE Access</b>, 2021
+        conference: IEEE Access, 2021
 
 skills:
     title: Skills &amp; Proficiency
