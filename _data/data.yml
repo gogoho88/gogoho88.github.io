@@ -72,43 +72,13 @@ education:
         (GPA: 4.12/4.5)
           
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Intern, Flash Circuit Design Team
+      time: Jun 2016 - Aug 2016
+      company: Samsung Electronics
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
+
 projects:
     title: Projects
     intro: >
@@ -145,7 +115,7 @@ publications:
         conference: European Conference on Computer Vision (ECCV), 2022
 
       - title: Deep Learning Approach for Radar-Based People Counting
-        link: "#"
+        link: "https://ieeexplore.ieee.org/document/9540889"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
         conference: IEEE Internet of Things Journal (IoTJ), 2022
 
@@ -162,12 +132,12 @@ publications:
       - title: Analysis of Micro-Doppler Signatures of Small UAVs Based on Doppler Spectrum
         link: "#"
         authors: Ki-Bong Kang, <strong>Jae-Ho Choi</strong>, Byung-Lae Cho, Jeong-Soo Kim, Kyung-Tae Kim
-        conference: IEEE Transactions on Aerospace and Electronic Systems (<br>TAES</br>), 2021
+        conference: IEEE Transactions on Aerospace and Electronic Systems (<b>TAES</b>), 2021
         
       - title: Robust Cardiac Rate Estimation of an Individual
         link: "#"
         authors: In-O Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim
-        conference: IEEE Sensors Journal (<br>IEEE Access</br>), 2021
+        conference: IEEE Sensors Journal (<b>IEEE Access</b>), 2021
         
       - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
         link: "#"
@@ -177,7 +147,7 @@ publications:
       - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
         link: "#"
         authors: Ji-Eun Kim, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
-        conference: <br>IEEE Access</br>, 2021
+        conference: <b>IEEE Access</b>, 2021
 
 skills:
     title: Skills &amp; Proficiency
