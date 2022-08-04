@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jae-Ho Choi
@@ -160,48 +160,38 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: International Journals &amp; Top Conference
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Remote Respiration Monitoring of Moving Person Using Radio Signals
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim
+        conference: European Conference on Computer Vision (ECCV), 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Deep Learning Approach for Radar-Based People Counting
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
+        conference: IEEE Internet of Things Journal (IoTJ), 2022
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Fusion of Target and Shadow Regions for Improved SAR ATR
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: <strong>Jae-Ho Choi</strong>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim
+        conference: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022
+
+      - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
+        link: "#"
+        authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
+        conference: IEEE Internet of Things Journal (IoTJ), 2021
 
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+    papers:
+      - title: Programming Language
+        conference: ― Python, C++, Matlab
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
