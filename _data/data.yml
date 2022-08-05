@@ -77,7 +77,7 @@ experiences:
       company: Intern, Flash Circuit Design Team 
 
      - role: POSTECH, Pohang, Korea
-      time: Feb 2017 - Current
+      time: Feb 2017 - Feb 2023
       company: Research Assistant, Intelligent Radar Signal Processing Lab.
 
 projects:
@@ -124,11 +124,6 @@ publications:
         link: "#"
         authors: <strong>Jae-Ho Choi</strong>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim
         conference: IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2022
-
-      - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
-        link: "#"
-        authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
-        conference: IEEE Internet of Things Journal (<b>IoTJ</b>), 2021
         
       - title: Analysis of Micro-Doppler Signatures of Small UAVs Based on Doppler Spectrum
         link: "#"
@@ -138,7 +133,12 @@ publications:
       - title: Robust Cardiac Rate Estimation of an Individual
         link: "#"
         authors: In-O Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim
-        conference: IEEE Sensors Journal (<b>SensJ</b>), 2021
+        conference: IEEE Sensors Journal (<b>SensJ</b>), 2021 
+        
+      - title: People Counting Using IR-UWB Radar Sensor in a Wide Area
+        link: "#"
+        authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
+        conference: IEEE Internet of Things Journal (<b>IoTJ</b>), 2021
         
       - title: Robust Detection of Presence of Individuals in an Indoor Environment using IR-UWB Radar
         link: "#"
