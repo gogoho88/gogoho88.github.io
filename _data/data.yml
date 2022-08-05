@@ -151,7 +151,8 @@ publications:
         conference: IEEE Radar Conference (<b>RadarConf</b>), 2020
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills 
+    intro: |
 
     papers:
       - title: Programming Language
