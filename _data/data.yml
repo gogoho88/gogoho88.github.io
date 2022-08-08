@@ -153,7 +153,16 @@ patents:
         link: 
         authors: <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
         conference: KR, 10-2280190 (Granted)
-        
+
+awards:
+    - role: Excellence Prize
+      time: Feb 2022
+      company: POSTECH-EE, Outstanding Research Award
+
+    - role: Encouragement Prize
+      time: Oct 2021
+      company: Korean Aerospace Institute, Aerospace Paper Award
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
