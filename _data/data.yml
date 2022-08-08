@@ -145,10 +145,12 @@ patents:
     
     papers:
       - title: RADAR-BASED DETECTION SYSTEM USING DOMAIN ADAPTATION
+        link: 
         authors: <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
         conference: KR, 10-2020-0182 (Pended)
         
       - title: PEOPLE COUNTING APPARATUS BASED ON RADAR USING DEEP LEARNING
+        link: 
         authors: <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
         conference: KR, 10-2280190 (Granted)
         
