@@ -82,13 +82,28 @@ experiences:
 publications:
     title: Publications
     papers:
+      - title: Fusion-rPPG: Video-RF Fusion Transformer for Advanced Remote Physiology Measurement
+        link: 
+        authors: Ki-Bong Kang, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
+        conference: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Submitted
+
       - title: Radar-Based People Counting under Heterogeneous Clutter Environments
         link: 
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
         conference: IEEE Internet of Things Journal (<b>IoTJ</b>), Submitted
-    
+
+      - title: Feature Selection for SAR Target Discrimination and Efficient Two-Stage Detection Method
+        link: 
+        authors: Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Geon Lee, Ji-Hoon Park, Kyung-Tae Kim
+        conference: Remote Sensing, Submitted
+
+      - title: Beam Scheduling of Maritime Multifunctional Radar Based on Binary Integration
+        link: 
+        authors: Nam-Hoon Jeong, Min Kim, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
+        conference: IEEE Sensors Journal (<b>SensJ</b>), Submitted
+
       - title: Remote Respiration Monitoring of Moving Person Using Radio Signals
-        link: "#"
+        link: 
         authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim
         conference: European Conference on Computer Vision (<b>ECCV</b>), 2022
 
@@ -126,14 +141,6 @@ publications:
         link: "https://ieeexplore.ieee.org/document/9266496"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Nam-Hoon Jeong, Seung-Hyun Jin, Kyung-Tae Kim
         conference: IEEE Radar Conference (<b>RadarConf</b>), 2020
-
-skills:
-    title: Skills 
-    intro: |
-
-    papers:
-      - title: Programming Language
-        conference: ― Python, C++, Matlab
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
