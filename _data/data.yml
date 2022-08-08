@@ -81,7 +81,7 @@ publications:
     papers:
       - title: Fusion-rPPG&#58; Video-RF Fusion Transformer for Advanced Remote Physiology Measurement
         link: 
-        authors: Ki-Bong Kang, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
+        authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim
         conference: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Submitted
 
       - title: Radar-Based People Counting under Heterogeneous Clutter Environments
