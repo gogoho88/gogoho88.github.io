@@ -79,7 +79,7 @@ experiences:
 publications:
     title: Publications
     papers:
-      - title: Fusion-rPPG: Video-RF Fusion Transformer for Advanced Remote Physiology Measurement
+      - title: Fusion-rPPG&#58; Video-RF Fusion Transformer for Advanced Remote Physiology Measurement
         link: 
         authors: Ki-Bong Kang, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim
         conference: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Submitted
