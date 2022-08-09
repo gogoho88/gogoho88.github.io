@@ -26,18 +26,11 @@ sidebar:
     twitter: 
     pdf: postechackr-my.sharepoint.com/:b:/g/personal/jhchoi93_postech_ac_kr/ESLVqqgXb19Cv52svyLEvS4BPRfM2RthQ4cqfQsYE101Sw?e=VvdL6t
 
-    languages:
-      - idiom: Korean
-        level: Native
-
-      - idiom: English
-        level: Professional
-
     interests:
       - item: Wireless Sensing
         link:
         
-      - item: Deep Learning
+      - item: Machine/Deep Learning
         link:
         
       - item: Contactless Health Monitoring
