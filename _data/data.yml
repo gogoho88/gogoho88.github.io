@@ -96,17 +96,19 @@ publications:
         link: 
         authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim
         conference: European Conference on Computer Vision (<b>ECCV</b>), 2022
-        other: <a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2022_ECCV_RFVital_main.pdf">[<span style="color:#5800FD">Paper</span>]</a><a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2022_ECCV_RFVital_supp.pdf">[<span style="color:#5800FD">Supp</span>]</a><a href="https://github.com/gogoho88/RRM">[<span style="color:#5800FD">Dataset</span>]</a>
+        other: <a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2022_ECCV_RFVital_main.pdf" target='_blank'>[<span style="color:#5800FD">Paper</span>]</a><a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2022_ECCV_RFVital_supp.pdf" target='_blank'>[<span style="color:#5800FD">Supp</span>]</a><a href="https://github.com/gogoho88/RRM" target='_blank'>[<span style="color:#5800FD">Dataset</span>]</a>
 
       - title: Deep Learning Approach for Radar-Based People Counting
         link: "https://ieeexplore.ieee.org/document/9540889"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
         conference: IEEE Internet of Things Journal (<b>IoTJ</b>), 2022
+        other: <a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2022_IoTJ_RPC2_main.pdf" target='_blank'>[<span style="color:#5800FD">Paper</span>]</a>
 
       - title: Fusion of Target and Shadow Regions for Improved SAR ATR
         link: "https://ieeexplore.ieee.org/document/9751685"
         authors: <strong>Jae-Ho Choi</strong>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim
         conference: IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2022
+        other: <a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2022_TGRS_SARshadow_main.pdf" target='_blank'>[<span style="color:#5800FD">Paper</span>]</a><a href="https://www.sdms.afrl.af.mil/index.php?collection=mstar" target='_blank'>[<span style="color:#5800FD">Dataset</span>]</a>
         
       - title: Analysis of Micro-Doppler Signatures of Small UAVs Based on Doppler Spectrum
         link: "https://ieeexplore.ieee.org/document/9409707"
@@ -122,6 +124,7 @@ publications:
         link: "https://ieeexplore.ieee.org/document/9234452"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim
         conference: IEEE Internet of Things Journal (<b>IoTJ</b>), 2021
+        other: <a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2021_IoTJ_RPC1_main.pdf" target='_blank'>[<span style="color:#5800FD">Paper</span>]</a>
         
       - title: Robust Detection of Presence of Individuals in an Indoor Environment using IR-UWB Radar
         link: "https://ieeexplore.ieee.org/abstract/document/9110845"
@@ -132,6 +135,7 @@ publications:
         link: "https://ieeexplore.ieee.org/document/9266496"
         authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Nam-Hoon Jeong, Seung-Hyun Jin, Kyung-Tae Kim
         conference: IEEE Radar Conference (<b>RadarConf</b>), 2020
+        other: <a href="https://nbviewer.org/github/gogoho88/online-cv/blob/master/assets/images/2020_RadarConf_RPC_main.pdf" target='_blank'>[<span style="color:#5800FD">Paper</span>]</a>
 
 patents:
     title: Patents
