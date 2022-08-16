@@ -96,7 +96,7 @@ publications:
         link: 
         authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim
         conference: European Conference on Computer Vision (<b>ECCV</b>), 2022
-        other: paper
+        other: <a href="https://github.com/gogoho88/online-cv/blob/master/assets/images/2022_ECCV_RFVital_main.pdf" download>paper</a><a href="https://github.com/gogoho88/online-cv/blob/master/assets/images/2022_ECCV_RFVital_supp.pdf" download>supp</a>
 
       - title: Deep Learning Approach for Radar-Based People Counting
         link: "https://ieeexplore.ieee.org/document/9540889"
